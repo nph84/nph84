@@ -1,5 +1,5 @@
 <h1>Hi, I'm Nathan! <br/><a href="https://github.com/nph84/nph84">Programmer</a>, <a href="https://www.linkedin.com/in/nathan-haywood-446826143/">Information Technology Professional</a>
-<h2>👨‍💻 Information Techonology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
