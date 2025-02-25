@@ -26,7 +26,7 @@
   - [Group policy and managing accounts](https://github.com/nph84/Group-policy-and-managing-accounts)
 <br/>
 
-## 🧰 Skills:
+## 🧰 Skills
 
   - 23 years hands-on experience with input/output peripherals, troubleshooting and repairing computer equipment<br/>
   - customer service experience and helping others solve technical issues <br/>
