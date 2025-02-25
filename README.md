@@ -26,10 +26,10 @@
   - [Group policy and managing accounts](https://github.com/nph84/Group-policy-and-managing-accounts)
 <br/>
 
- <h2>Skills:</h2>
-    - 23 years hands-on experience with Input/output peripherals <br/>
+ <h2>🧰Skills:</h2>
+    - 23 years hands-on experience with Input/output peripherals and troubleshooting and repairing computer equipment<br/>
     - customer service experience and helping others solve technical issues <br/>
-    - 8 years experience setting up home networks and configuring network permissions and file shares
+    - 8 years experience setting up home networks and configuring network permissions and file shares <br/> <br/>
     
 
 <h2> 📱 Connect with me:</h2>
