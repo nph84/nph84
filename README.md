@@ -15,7 +15,7 @@
   - [Building Intuition for DNS](https://github.com/stephenlangtech/Building-Intuition-for-DNS)
 <br/>
 
-- <b>Virtual Private Network</b>
+ <b>Virtual Private Network</b>
   - [VPN Setup in a Virtual Machine ](https://github.com/stephenlangtech/Setting-UP-A-VPN)
 
 <h2> 📱 Connect with me:</h2>
