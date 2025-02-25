@@ -26,11 +26,21 @@
   - [Group policy and managing accounts](https://github.com/nph84/Group-policy-and-managing-accounts)
 <br/>
 
+## 📚 Education
+
+  - CourseCareers (2024-2025)
+  - University of Phoenix (2009-2010)
+  - Blueridge Community College (2002-2003)
+
+<br/>
+
+
+
 ## 🧰 Skills
 
   - 23 years hands-on experience with input/output peripherals, troubleshooting and repairing computer equipment<br/>
   - customer service experience and helping others solve technical issues <br/>
-  - 8 years experience setting up home networks and configuring network permissions and file shares <br/> <br/>
+  - 8 years experience setting up home networks and configuring network permissions and file shares <br/>
   - extensive experience with Microsoft Word and Excel
     
 
