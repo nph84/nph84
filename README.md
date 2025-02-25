@@ -30,7 +30,7 @@
 
   - CourseCareers (2024-2025)
   - University of Phoenix (2009-2010)
-  - Blueridge Community College (2002-2003)
+  - Blue Ridge Community College (2002-2003)
 
 <br/>
 
