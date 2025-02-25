@@ -17,6 +17,13 @@
 
 - <b>Virtual Private Network</b>
   - [VPN Setup in a Virtual Machine ](https://github.com/nph84/VPN-Setup-in-a-Virtual-Machine)
+ <br/>
+ 
+- <b>Active Directory</b>
+  - [Preparing Active Directory Infrastructure in Azure]()
+  - [Deploying Active Directory]()
+  - [Creating users with PowerShell]()
+  - [Group policy and managing accounts]()
 
 <h2> 📱 Connect with me:</h2>
 
