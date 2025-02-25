@@ -31,6 +31,7 @@
   - 23 years hands-on experience with input/output peripherals, troubleshooting and repairing computer equipment<br/>
   - customer service experience and helping others solve technical issues <br/>
   - 8 years experience setting up home networks and configuring network permissions and file shares <br/> <br/>
+  - extensive experience with Microsoft Word and Excel
     
 
 <h2> 📱 Connect with me:</h2>
