@@ -10,7 +10,7 @@
 
 - <b>Networks in Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/nph84/Configuring-Active-Directory-within-Azure-VMs)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/nph84/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/nph84/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
   - [Network File Shares and Permissions](https://github.com/nph84/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/nph84/Building-Intuition-for-DNS)
 <br/>
