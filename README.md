@@ -24,6 +24,13 @@
   - [Deploying Active Directory](https://github.com/nph84/Deploying-AD)
   - [Creating users with PowerShell](https://github.com/nph84/Creating-users-with-PowerShell)
   - [Group policy and managing accounts](https://github.com/nph84/Group-policy-and-managing-accounts)
+<br/>
+
+ <h2>Skills:</h2>
+    - 23 years hands-on experience with Input/output peripherals <br/>
+    - customer service experience and helping others solve technical issues <br/>
+    - 8 years experience setting up home networks and configuring network permissions and file shares
+    
 
 <h2> 📱 Connect with me:</h2>
 
