@@ -3,9 +3,9 @@
 <br/>
   
 <b>osTicket: Post Installation Configuration</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/nph84/osticket-prereqs/tree/main)
-  - [osTicket: Post-Installation Configuration](https://github.com/stephenlangtech/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/stephenlangtech/ticket-lifecycle)
+  + [osTicket: Prerequisites and Installation](https://github.com/nph84/osticket-prereqs/tree/main)
+  + [osTicket: Post-Installation Configuration](https://github.com/stephenlangtech/post-install-config)
+  + [osTicket: Ticket Lifecycle Examples](https://github.com/stephenlangtech/ticket-lifecycle)
 <br/>
 
  <b>Networks in Microsoft Azure</b>
