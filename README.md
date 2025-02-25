@@ -9,7 +9,6 @@
 <br/>
 
 - <b>Networks in Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/nph84/Configuring-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/nph84/Network-Security-Groups-and-Inspecting-Network-Protocols)
   - [Network File Shares and Permissions](https://github.com/nph84/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/nph84/Building-Intuition-for-DNS)
@@ -21,6 +20,7 @@
  
 - <b>Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/nph84/Preparing-AD-Infrastructure-in-Azure)
+  - [Configuring Active Directory within Azure VMs](https://github.com/nph84/Configuring-Active-Directory-within-Azure-VMs)
   - [Deploying Active Directory](https://github.com/nph84/Deploying-AD)
   - [Creating users with PowerShell](https://github.com/nph84/Creating-users-with-PowerShell)
   - [Group policy and managing accounts](https://github.com/nph84/Group-policy-and-managing-accounts)
