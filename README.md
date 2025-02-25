@@ -20,10 +20,10 @@
  <br/>
  
 - <b>Active Directory</b>
-  - [Preparing Active Directory Infrastructure in Azure]()
-  - [Deploying Active Directory]()
-  - [Creating users with PowerShell]()
-  - [Group policy and managing accounts]()
+  - [Preparing Active Directory Infrastructure in Azure](https://github.com/nph84/Preparing-AD-Infrastructure-in-Azure)
+  - [Deploying Active Directory](https://github.com/nph84/Deploying-AD)
+  - [Creating users with PowerShell](https://github.com/nph84/Creating-users-with-PowerShell)
+  - [Group policy and managing accounts](https://github.com/nph84/Group-policy-and-managing-accounts)
 
 <h2> 📱 Connect with me:</h2>
 
