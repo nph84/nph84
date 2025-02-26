@@ -5,7 +5,6 @@
 - <b>Azure Network Security Groups</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/nph84/Network-Security-Groups-and-Inspecting-Network-Protocols)
   - [Observing ICMP, SSH, DHCP, DNS, and RDP traffic](https://github.com/nph84/Observing-ICMP-SSH-DHCP-DNS-and-RDP-traffic)
-  - [Building Intuition for DNS](https://github.com/nph84/Building-Intuition-for-DNS)
 <br/>
 
   
