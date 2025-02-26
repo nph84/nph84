@@ -4,7 +4,11 @@
 
 - <b>Azure Network Security Groups</b>
   - [Creating virtual machines in Microsoft Azure](https://github.com/nph84/Network-Security-Groups-and-Inspecting-Network-Protocols)
-  - [Observing ICMP traffic](https://github.com/nph84/Observing-ICMP-traffic)
+  - [Observe ICMP traffic](https://github.com/nph84/Observing-ICMP-traffic)
+  - [Observe SSH traffic]
+  - [Observe DHCP traffic]
+  - [Observe DNS traffic]
+  - [Observe RDP traffic]
 <br/>
 
   
