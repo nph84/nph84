@@ -2,7 +2,7 @@
 <h2>🖥⌨🖱 Information Technology Projects:</h2>
 <br/>
 
-- <b>Networks in Microsoft Azure</b>
+- <b>Azure Network Security Groups</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/nph84/Network-Security-Groups-and-Inspecting-Network-Protocols)
   - [Network File Shares and Permissions](https://github.com/nph84/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/nph84/Building-Intuition-for-DNS)
