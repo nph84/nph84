@@ -12,7 +12,7 @@
 <br/>
 
   
- - <b>osTicket: Post Installation Configuration</b>
+- <b>osTicket: Post Installation Configuration</b>
   - [Setup a virtual machine in Azure](https://github.com/nph84/Setup-a-virtual-machine-in-Azure)
   - [Install the osTicket requirements](https://github.com/nph84/Install-the-osTicket-requirements)
   - [Install osTicket](https://github.com/nph84/Install-osTicket)
@@ -24,6 +24,7 @@
 - <b>Virtual Private Network</b>
   - [VPN Setup in a Virtual Machine ](https://github.com/nph84/VPN-Setup-in-a-Virtual-Machine)
  <br/>
+
  
 - <b>Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/nph84/Preparing-AD-Infrastructure-in-Azure)
@@ -32,6 +33,7 @@
   - [Creating users with PowerShell](https://github.com/nph84/Creating-users-with-PowerShell)
   - [Group policy and managing accounts](https://github.com/nph84/Group-policy-and-managing-accounts)
 <br/>
+
 
 ## 📚 Education
 
