@@ -12,10 +12,12 @@
 <br/>
 
   
-- <b>osTicket: Post Installation Configuration</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/nph84/osticket-prereqs/tree/main)
-  - [osTicket: Post-Installation Configuration](https://github.com/nph84/osTicket-Post-Install-Config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/nph84/osTicket-Ticket-Lifecycle-Examples)
+ - <b>osTicket: Post Installation Configuration</b>
+  - [Setup a virtual machine in Azure]()
+  - [Install the osTicket requirements]()
+  - [Install osTicket]()
+  - [After-installation configuration of osTicket]()
+  - [Explore osTicket as a Help Desk Professional]()
 <br/>
 
 
