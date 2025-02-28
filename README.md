@@ -15,7 +15,7 @@
 - <b>osTicket: Post Installation Configuration</b>
   - [Setup a virtual machine in Azure](https://github.com/nph84/Setup-a-virtual-machine-in-Azure)
   - [osTicket Installation](https://github.com/nph84/Install-osTicket)
-  - [After-installation configuration of osTicket](https://github.com/nph84/After-installation-config-of-osTicket)
+  - [osTicket Post-Installation Setup](https://github.com/nph84/After-installation-config-of-osTicket)
   - [Explore osTicket as a Help Desk Professional](https://github.com/nph84/Explore-osTicket-as-a-Help-Desk-Professional)
 <br/>
 
