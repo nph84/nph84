@@ -34,6 +34,18 @@
 <br/>
 
 
+- <b>DNS</b>
+  - [Practicing with DNS](https://github.com/nph84/Preparing-AD-Infrastructure-in-Azure)
+<br/>
+
+
+
+- <b>Network File Shares and Permissions</b>
+
+<br/>
+
+
+
 ## 📚 Education
 
   - CourseCareers (2024-2025)
