@@ -27,8 +27,7 @@
  
 - <b>Active Directory</b>
   - [Preparing Active Directory Infrastructure in Azure](https://github.com/nph84/Preparing-Active-Directory-Infrastructure-in-Azure)
-  - [Configuring Active Directory within Azure VMs](https://github.com/nph84/Configuring-Active-Directory-within-Azure-VMs)
-  - [Deploying Active Directory](https://github.com/nph84/Deploying-AD)
+  - [Configuring and deploying Active Directory within Azure VMs](https://github.com/nph84/Configuring-Active-Directory-within-Azure-VMs)
   - [Creating users with PowerShell](https://github.com/nph84/Creating-users-with-PowerShell)
   - [Group policy and managing accounts](https://github.com/nph84/Group-policy-and-managing-accounts)
 <br/>
