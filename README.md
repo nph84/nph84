@@ -38,10 +38,6 @@
 <br/>
 
 
-
-- <b>Network File Shares and Permissions</b>
-  - [Network File Shares and Permissions](https://github.com/nph84/Network-File-Shares-and-Permissions)
-
 <br/>
 
 
