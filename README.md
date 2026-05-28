@@ -1,4 +1,4 @@
-```markdown id="x8d4pk"
+
 <h1>Hi, I'm Nathan, an <a href="https://www.linkedin.com/in/nathan-haywood-446826143/">IT Systems Technician</a></h1>
 
 <h2>🖥⌨🖱 Current Technical Focus</h2>
@@ -73,4 +73,3 @@
   <img align="left" alt="Nathan Haywood | LinkedIn" width="22px"
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-```
