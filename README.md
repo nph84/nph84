@@ -3,17 +3,14 @@
 
 <h2>🖥⌨🖱 Information Technology Projects:</h2>
 
+<h3>Endpoint & PowerShell Automation</h3>
+
 <ul>
-  <li>
-    <b>Endpoint & PowerShell Automation</b>
-    <ul>
-      <li>PowerShell-based endpoint deployment and remediation workflows</li>
-      <li>Remote administration and software deployment automation using PSSession and PsExec</li>
-      <li>Endpoint provisioning and configuration standardization projects</li>
-      <li>Profile migration and deployment utility development</li>
-      <li>Enterprise workstation deployment and operational scripting</li>
-    </ul>
-  </li>
+  <li>PowerShell-based endpoint deployment and remediation workflows</li>
+  <li>Remote administration and software deployment automation using PSSession and PsExec</li>
+  <li>Endpoint provisioning and configuration standardization projects</li>
+  <li>Profile migration and deployment utility development</li>
+  <li>Enterprise workstation deployment and operational scripting</li>
 </ul>
 
 <h2>🧰 Technical Focus Areas</h2>
